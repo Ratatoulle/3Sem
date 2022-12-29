@@ -1,0 +1,5 @@
+D:\study\2 KURS\3rdSemestr\projects\3sem\3dAnimation\Debug\3dAnimation.exe
+D:\study\2 KURS\3rdSemestr\projects\3sem\Clock\Debug\Clock.exe
+D:\study\2KURS\INFA\QtProjects\2DAnimations\SFML\Clock\Debug\3dAnimation.vcxproj.CopyComplete
+D:\study\2KURS\INFA\QtProjects\2DAnimations\SFML\Clock\Debug\Clock.exe
+D:\study\2KURS\INFA\QtProjects\2DAnimations\SFML\Clock\Debug\freeglutd.dll

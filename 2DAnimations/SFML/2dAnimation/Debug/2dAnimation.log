@@ -1,0 +1,16 @@
+﻿  anim.cxx
+D:\study\2 KURS\3rdSemestr\projects\3sem\2dAnimation\anim.cxx(10,38): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\study\2 KURS\3rdSemestr\projects\3sem\2dAnimation\anim.cxx(11,39): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  main.cxx
+  Создание кода...
+main.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B).
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ _WinMain@16 в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+D:\study\2 KURS\3rdSemestr\projects\3sem\2dAnimation\Debug\2dAnimation.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

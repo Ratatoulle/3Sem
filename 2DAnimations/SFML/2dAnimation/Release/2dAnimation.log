@@ -1,0 +1,21 @@
+﻿  anim.cpp
+D:\study\2KURS\INFA\QtProjects\2DAnimations\SFML\2dAnimation\anim.cpp(10,38): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\study\2KURS\INFA\QtProjects\2DAnimations\SFML\2dAnimation\anim.cpp(11,39): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  main.cpp
+D:\study\2KURS\INFA\QtProjects\2DAnimations\SFML\2dAnimation\main.cpp(46,39): warning C4267: аргумент: преобразование из "size_t" в "sf::Uint8"; возможна потеря данных
+D:\study\2KURS\INFA\QtProjects\2DAnimations\SFML\2dAnimation\main.cpp(47,38): warning C4267: аргумент: преобразование из "size_t" в "sf::Uint8"; возможна потеря данных
+D:\study\2KURS\INFA\QtProjects\2DAnimations\SFML\2dAnimation\main.cpp(48,34): warning C4267: аргумент: преобразование из "size_t" в "sf::Uint8"; возможна потеря данных
+  player.cpp
+  Создание кода
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 87 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  2dAnimation.vcxproj -> D:\study\2KURS\INFA\QtProjects\2DAnimations\SFML\2dAnimation\Release\2dAnimation.exe

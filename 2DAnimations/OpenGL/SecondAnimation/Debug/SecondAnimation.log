@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\SecondAnimation\main.cpp(13,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\SecondAnimation\main.cpp(67,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\SecondAnimation\main.cpp(67,21): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  SecondAnimation.vcxproj -> D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\Debug\SecondAnimation.exe

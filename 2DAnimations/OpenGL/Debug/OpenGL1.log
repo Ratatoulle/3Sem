@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (OpenGL1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\main.cpp(18,48): warning C4305: +=: усечение из "double" в "float"
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\main.cpp(20,48): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\main.cpp(20,22): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\main.cpp(57,19): warning C4305: /=: усечение из "double" в "float"
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\main.cpp(108,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\main.cpp(108,21): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  OpenGL1.vcxproj -> D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\Debug\FirstAnimation.exe

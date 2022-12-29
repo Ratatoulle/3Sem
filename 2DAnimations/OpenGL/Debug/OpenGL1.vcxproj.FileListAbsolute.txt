@@ -1,0 +1,8 @@
+D:\study\2KURS\INFA\QtProjects\Simple-Animation-of-circles-OpenGL-master\Debug\OpenGL1.vcxproj.CopyComplete
+D:\study\2KURS\INFA\QtProjects\Simple-Animation-of-circles-OpenGL-master\Debug\OpenGL1.exe
+D:\study\2KURS\INFA\QtProjects\Simple-Animation-of-circles-OpenGL-master\Debug\freeglutd.dll
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\Debug\OpenGL1.vcxproj.CopyComplete
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\Debug\FirstAnimation.exe
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\Debug\freeglutd.dll
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\Debug\FirstAnimation.exe.lastcodeanalysissucceeded
+D:\study\2KURS\INFA\QtProjects\OpenGL_2DAnimation\Debug\NativeCodeAnalysis.read.1.tlog

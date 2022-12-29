@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\study\2KURS\INFA\QtProjects\Simple-Animation-of-circles-OpenGL-master\main.cpp(1,9): fatal  error C1083: Не удается открыть файл включение: gl\glut.h: No such file or directory,
